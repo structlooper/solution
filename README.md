@@ -1,10 +1,13 @@
-# solidGarbanzo_str
+# solution
 
 To install this laravel project<br> <br>
 <h1>SuperAdmin Access <br>
 phone-> 7678178911 <br>
 password-> 123456 </h1>
 <h2>the all type of users and admin have password [123456].</h2>
+<h2>admin--> phone : 1234567890 password:123456</h2>
+<h2>admin 2--> phone : 1234567891 password:123456</h2> 
+<h2>user--> phone : 9876543211 password:123456</h2> 
 To the project, You have to follow the following steps<br> <br>
 <h3>Dont forget to import solution.sql file</h3><br>
 go to the folder where you want to clone the project.<br> <br>
